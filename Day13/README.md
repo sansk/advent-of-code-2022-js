@@ -1,8 +1,8 @@
 # 🎄🎄 Advent of Code 2022 🎄✨✨
 ## --- Day 13: Distress Signal ---
-* * *
+
 ## Problem Description
-* * *
+
 ## Part One
 You climb the hill and again try contacting the Elves. However, you instead receive a signal you weren't expecting: **a distress signal**.
 
