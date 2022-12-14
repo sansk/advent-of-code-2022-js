@@ -1,6 +1,4 @@
-import { readFileSync } from "node:fs";
 import { getInput, log } from '../utils/index.js';
-import chalk from 'chalk';
 
 const input = getInput(import.meta.url).replace(/\r/g, "").trim().split("\n")
 
